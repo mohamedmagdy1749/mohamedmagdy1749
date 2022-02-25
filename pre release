@@ -1,0 +1,4 @@
+# For count + 1 to 3
+# PRINT "name of member: firstName[count], lastName[count]
+# PRINT "Volunteer Area: ", volunteerArea[count]
+# NEXT Count
